@@ -12,4 +12,4 @@ var img = document.getElementById('madi');
 
 madi.onclick = function (){
     img.style.marginleft = '100px';
-}
+};
