@@ -6,6 +6,8 @@ var counter = 0;
 button.onclick = function () {
     // Make a request to the correct end point
     
+    var request = new XMLHttpRequest();
+    
     // Capture the response and store it in a variable
     
     // Render the variable in the correct span
