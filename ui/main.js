@@ -18,7 +18,6 @@ button.onclick = function () {
             }
         }
         
-        }
     };
     //Make the request
     request.open('GET', 'http://avkiranmayi.imad.hasura-app.io/counter', true);
